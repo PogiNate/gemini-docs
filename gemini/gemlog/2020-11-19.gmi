@@ -1,0 +1,16 @@
+# November 19, 2020
+
+Hey, I have a passably functional Gemini server! I don't know why this is such a big deal to me, but I've actually enjoyed the process of getting this thing set up. I feel a little Like Dirk Gently in "The Long Dark Teatime of the Soul":
+
+> ...To be able to move from total ignorance of something to total desire for it, and then to actually own the thing all within the space of [about a week] was, for [Nate], something of an epiphany.
+
+I'm impressed with the clean and fairly simple layout of Gemini, I'm impressed with the totally decentralized nature of it, a return to a weirder, murkier, and more limited time in web history. 
+
+So why am I here? What are my goals? 
+
+* As the domain implies, I enjoy writing. I write a lot of stuff. 
+* I think text-first layouts should make a comeback. 
+* I like playing with new shiny technologies.
+* I like doing things that aren't under the control of a major corporation. 
+
+Look, I don't have a grand purpose here. I'm just glad to be aboard. I'll clarify things as I go along. Probably.
