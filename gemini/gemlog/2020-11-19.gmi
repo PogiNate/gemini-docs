@@ -1,6 +1,8 @@
 # November 19, 2020
 
-Hey, I have a passably functional Gemini server! I don't know why this is such a big deal to me, but I've actually enjoyed the process of getting this thing set up. I feel a little Like Dirk Gently in "The Long Dark Teatime of the Soul":
+Hey, I have a passably functional Gemini server! 
+
+I don't know why this is such a big deal to me, but I've actually enjoyed the process of getting this thing set up. I feel a little Like Dirk Gently in "The Long Dark Teatime of the Soul":
 
 > ...To be able to move from total ignorance of something to total desire for it, and then to actually own the thing all within the space of [about a week] was, for [Nate], something of an epiphany.
 
@@ -17,4 +19,4 @@ Look, I don't have a grand purpose here. I'm just glad to be aboard. I'll clarif
 
 ## Some Fun Setup Stuff
 
-I'm really enjoying the back to basics nature of Gemini. Right now I'm using cron to update my server with new files every five minutes. It's a really nice return to basics. 
+I'm really enjoying the back to basics nature of Gemini. Right now I'm using cron to update my server with new files every five minutes. It's a really nice return to basics. Yes, this paragraph was added specifically to test my cronjob. 
