@@ -1,0 +1,11 @@
+# Nate's Gemini Capsule
+
+The domain name is one I had laying around after not using it for anything interesting for a while. Now I'm using it for a little Gemini Capsule of my very own.
+
+At present this is being hosted on a Raspberry Pi 4 living in my house, I'm looking to change that. Not that I don't love my little Pi, it's just the whole security implications of having a real domain name pointed right at my face.
+
+Running on Jetforce, which I quite like so far!
+
+=> https://github.com/michael-lazar/jetforce  Jetforce Powers This Site!
+=> https://www.raspberrypi.org/ Runs on Raspberry
+=> gemlog My gemlog? Possibly? Still building up a structure here.
