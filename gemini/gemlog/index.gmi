@@ -1,3 +1,7 @@
 # Nate Dickson's Gemlog
 
 I mean, probably. We're getting there. Setting up some structure and whatnot.
+
+## Entries
+
+=> 2020-11-19.gmi First Entry!
