@@ -2,10 +2,27 @@
 
 The domain name is one I had laying around after not using it for anything interesting for a while. Now I'm using it for a little Gemini Capsule of my very own.
 
-At present this is being hosted on a Raspberry Pi 4 living in my house, I'm looking to change that. Not that I don't love my little Pi, it's just the whole security implications of having a real domain name pointed right at my face.
+## About Me
 
-Running on Jetforce, which I quite like so far!
+I'm Nate Dickson. We may have bumped into one another on the web at some point. I write things and have been a programmer for a number of years. 
+
+Here are some places we may have seen one another.
+
+=> https://frogmob.life/@nate  @nate@frogmob.life on Mastodon
+=> https://thoughts.natedickson.com My main write.as blog 
+=> https://exchange-magic.writeas.com/  Exchange Magic is a book I'm writing for NaNoWriMo 2020
+=> https://nanowrimo.org NaNoWriMo is my favorite November activity 
+=> https://leanpub.com/painless_vim/  Painless Vim: My Vim Book
+=> https://leanpub.com/painless_tmux/ Painless Tmux: My Tmux Book
+=> https://leanpub.com/painless_git/  Painless Git: My Git Book
+(and then I stopped writing new tech books 😃 )
+=> gemlog My gemlog? Possibly? Still building up a structure here.
+
+
+## About the Site
+
+This whole thing is running on Jetforce, which I quite like so far!
+At present it's hosted on a Raspberry Pi, which is doing the job quite nicely. I might move to something fancier in the near future. We'll see. 
 
 => https://github.com/michael-lazar/jetforce  Jetforce Powers This Site!
 => https://www.raspberrypi.org/ Runs on Raspberry
-=> gemlog My gemlog? Possibly? Still building up a structure here.
