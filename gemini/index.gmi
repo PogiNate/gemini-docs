@@ -36,3 +36,4 @@ At present it's hosted on a Raspberry Pi, which is doing the job quite nicely. I
 
 => https://github.com/michael-lazar/jetforce  Jetforce Powers This Site!
 => https://www.raspberrypi.org/ Runs on Raspberry
+=> /demonstrate.gmi A Demonstration page for my syntax highlighter.

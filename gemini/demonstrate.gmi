@@ -1,0 +1,18 @@
+# Demonstrator
+This page is mostly here so I can take screen shots of it when/if I update my Gemini highlighter thing for Nova. It shows all the features of .gmi files!
+
+# A Heading
+## Second Level
+### Third Level
+```
+Fenced Code Block
+
+```
+=> gemini://writerfriends.space My Space!
+
+* Lists
+* Are
+* Fun
+
+> Quoted Text
+
