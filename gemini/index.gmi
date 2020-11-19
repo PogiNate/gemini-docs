@@ -13,7 +13,7 @@ Here are some places we may have seen one another.
 => https://thoughts.natedickson.com My main write.as blog 
 => https://exchange-magic.writeas.com/  Exchange Magic is a book I'm writing for NaNoWriMo 2020
 => https://nanowrimo.org NaNoWriMo is my favorite November activity 
-=> gemlog My gemlog? Possibly? Still building up a structure here.
+=> gemlog My gemlog. 
 
 ## Books I Wrote
 => https://leanpub.com/painless_vim/  Painless Vim: My Vim Book
