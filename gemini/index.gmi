@@ -9,14 +9,17 @@ I'm Nate Dickson. We may have bumped into one another on the web at some point. 
 Here are some places we may have seen one another.
 
 => https://frogmob.life/@nate  @nate@frogmob.life on Mastodon
+=> https://midnight.pub/u/BrightBlue I'm "BrightBlue" on midnight.pub 
 => https://thoughts.natedickson.com My main write.as blog 
 => https://exchange-magic.writeas.com/  Exchange Magic is a book I'm writing for NaNoWriMo 2020
 => https://nanowrimo.org NaNoWriMo is my favorite November activity 
+=> gemlog My gemlog? Possibly? Still building up a structure here.
+
+## Books I Wrote
 => https://leanpub.com/painless_vim/  Painless Vim: My Vim Book
 => https://leanpub.com/painless_tmux/ Painless Tmux: My Tmux Book
 => https://leanpub.com/painless_git/  Painless Git: My Git Book
 (and then I stopped writing new tech books 😃 )
-=> gemlog My gemlog? Possibly? Still building up a structure here.
 
 
 ## About the Site
