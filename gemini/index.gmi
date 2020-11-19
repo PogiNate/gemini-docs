@@ -15,12 +15,18 @@ Here are some places we may have seen one another.
 => https://nanowrimo.org NaNoWriMo is my favorite November activity 
 => gemlog My gemlog. 
 
+
 ## Books I Wrote
 => https://leanpub.com/painless_vim/  Painless Vim: My Vim Book
 => https://leanpub.com/painless_tmux/ Painless Tmux: My Tmux Book
 => https://leanpub.com/painless_git/  Painless Git: My Git Book
 (and then I stopped writing new tech books 😃 )
 
+
+## Gemini Stuff!
+I wrote a Syntax thingy for Gemini for Panic's Nova editor. I'm using it right now! You can check it out if you use Nova. Gemfiles are a great syntax to experiment on. 
+=> https://panic.com/nova Nova Editor
+=> https://github.com/PogiNate/nova-gemini My Extension on Github
 
 ## About the Site
 
