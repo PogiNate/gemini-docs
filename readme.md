@@ -6,4 +6,4 @@ This is a simple little repo for a bunch of documents I want to put on a [Gemini
 Um... if you want to offer spell checking advice and whatnot,  you can do that!
 
 ## Find this in real life
-If you want to read these documents the way they were *meant* to be read, i.e. with minimal highlighting and whatnot, find them using your favorite gemini browser at [Writerfriends.space](gemini://writerfriends.space) 
+If you want to read these documents the way they were *meant* to be read, i.e. with minimal highlighting and whatnot, find them using your favorite gemini browser at `gemini:\\writerfriends.space`  (apparently Github doesn't like gemini links in markdown format.)
