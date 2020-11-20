@@ -1,0 +1,65 @@
+# AlterNet
+
+I'm not claiming to have coined this term, it has to have existed before, and frequently. But I'm starting to think about a second internet, one that exists alongside the one we all know. An "alterNet" if you will. And it's growing.
+
+## What We Lost
+Gradually, and with the best of intentions, we lost control of the internet. We've all seen it lately, the web is owned by Amazon, Facebook, and Google, our hardware is owned by Apple, Google, and Microsoft. Our social lives are mediated by companies that are no better equipped to handle a worldwide social space than any of us would be, and they're failing mightily. 
+
+But as scary as all that is, there is hope; there is always hope. 
+
+### The Browser Wars Ended: Google Won
+
+Those of us old enough to remember the original browser wars remember Navigator and Explorer. Microsoft won by cutting the price of their browser to free, and Netscape folded, throwing a final "hail Mary" to become Mozilla. 
+
+And for a while, outside of Explorer's death grip on web standards, other rendering engines sprang up. Opera created their own Presto Engine. Mozilla kept working on Gecko and improving it. Apple created WebKit. Google made a laughably terrible browser called Chrome that basically just used WebKit and extended it. 
+
+But you know how this plays out. Google's browser got better, and became the de facto standard browser. One by one the other players adopted Google's open source Chromium rendering engine. As it stands now, you have "options" with heavy scare quotes. Chrome, Edge, Vivaldi, Safari, Opera, Brave, Chromium, they all use Google's tech, adapted in various ways. 
+
+Firefox is the sole mainstream holdout. 
+
+And creating a new rendering engine is a massive task that just doesn't bear thinking about. HTML/CSS/JS has become a technology stack as complex as any operating system, for better or for worse. So we can either trust the major corporations, or keep using Firefox for as long as they hold out against the Chromium tide. 
+
+### Social Media Forgot About People
+
+We all know social media is demonstrably bad for us. Every study has come back telling us that the more time you spend on social media, the less happy you are. Facebook has openly admitted to running sociological experiments on people, playing with their timelines and gauging their responses. A sad fact is that many people's social lives now pass through a major corporation on the way to another person, and those corporations have long since given up even the pretense of keeping your communications private. 
+
+## The Quiet Revolution
+
+But it's not all bad. The barrier to entry is lower than it has ever been. Anyone can set up a website, a blog, a podcast. Centralization is easier but the nature of the web has thus far resisted making it mandatory. RSS still works, no matter how much Google wants you to use AMP. RSS still works, no matter how much Apple wants you to use Apple News. (RSS is really good, you guys.)
+
+And there's more. We can use the web for what it's good for, on our own time and in our own ways. There are alternatives. 
+
+### Smaller is Better
+In social spaces the limitless crowd of Twitter is a problem, exacerbated by Twitter's desire to keep you "engaged". Even if I only have a few friends on Twitter my timeline is perpetually full, because Twitter spiders outward, finding content by people my friends' friends' know. There is no quiet, there is no peace. 
+
+But there is Mastodon. Driven by small, independent servers, run by individuals, and often for single individuals, Mastodon allows a user to connect selectively, only seeing posts when there are new posts to see. 
+
+### There Is Room for Simplicity
+
+But what about the web in general? Sometimes the question becomes "do we actually need web apps?" Sometimes we do! Web apps are wonderful. But not everything needs to be an app. Not everything needs full tracking on each user who interacts with a site. 
+
+What if we had "just" text for some things?
+
+m15o, the creator of The Midnight Pub, had this to say:
+
+> Ever since I've released the alpha of the Midnight...a few month [sic] back, I've discovered many little corners of the web. I saw communities that interact directly through ssh, and even new protocols that are much better at consuming text content (hello, if you read from gemini!)
+> ... why should the Midnight even require JavaScript to start with? It's only text and styles.
+
+What if we had, well, Gemini? 
+
+## The Rise of the AlterNet
+It's interesting to watch the growth of the "AlterNet", the version of the internet that doesn't want to be part of the largely corporate mainstream, that wants to strike out in different directions, that wants to create without "producing content". 
+
+Like any good small technology the AlterNet is many different parts. The "Fediverse" of Mastodon/write.as/Pleroma and the associated video and podcasting services is one part. The "Tilde" communities that communicate by ssh'ing into a shared Linux server is another part. Alternate transports like gemini and gopher are yet another. None of this is frictionless; there is effort involved in moving around the AlterNet, and that's a good thing. We value what we work for. 
+
+Last year I read a book that changed my life and my mind. Jenny Odell's "How to Do Nothing" suggests that the attention economy isn't about enriching our lives, and that we can wrest our attention from it; and gain back what makes us human.
+
+Instead of connecting to the masses we can connect to one another, we can think in longer, slower ways, instead of short snippets. We can create because we love it instead of create what will get us views or clicks or likes or revenue. We can be truly weird online again. 
+
+
+
+# Links
+=> https://midnight.pub/e/282024650387489281 m15o's comments on why The Midnight Doesn't need JS\
+=> https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/ How to Do Nothing by Jenny Odell
+=> frogmob.life/@nate @nate@frogmob.life is my Mastodon account. Come say hi!
+=> http://tilde.town/~brightblue/ Tilde Town is my ~ community of choice. Sorry about the lame homepage. 

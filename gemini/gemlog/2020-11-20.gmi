@@ -1,0 +1,11 @@
+# 20 Nov, 2020 
+
+I've been thinking about all the plaintext in my life. From devices like the Neo to the FreeWrite Traveler to the lovely markdown-based personal wiki Obsidian, plaintext, or lightly marked up text seems to be the way I think these days. I love CSS, indeed it was the first part of "programming" that really clicked with me. (I realize how it's not "real" programming now, but at the time anything that made the computer obey me counted.) But we don't always need it. 
+
+I miss the days of Mutt and pine. I still use Vim and Tmux frequently, so it's hard to "miss" those. 
+
+## Links
+
+=> https://obsidian.md Obsidian is an amazing personal wiki and mind-enhancer
+=> http://www.renlearn.co.uk/neo-2/ The Neo2 is out of production, but still amazing.
+=> https://getfreewrite.com/products/freewrite-traveler The Traveler is expensive but focused.

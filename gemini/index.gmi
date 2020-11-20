@@ -2,6 +2,10 @@
 
 The domain name is one I had laying around after not using it for anything interesting for a while. Now I'm using it for a little Gemini Capsule of my very own.
 
+## Latest on the site
+
+=> essays/alternet.gmi A new Essay about the "AlterNet".
+
 ## About Me
 
 I'm Nate Dickson. We may have bumped into one another on the web at some point. I write things and have been a programmer for a number of years. 
@@ -9,6 +13,7 @@ I'm Nate Dickson. We may have bumped into one another on the web at some point. 
 Here are some places we may have seen one another.
 
 => gemlog My gemlog. 
+=> essays Longer-form writing. 
 => https://frogmob.life/@nate  @nate@frogmob.life on Mastodon
 => https://midnight.pub/u/BrightBlue I'm "BrightBlue" on midnight.pub 
 => https://thoughts.natedickson.com My main write.as blog 
