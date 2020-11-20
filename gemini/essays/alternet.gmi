@@ -61,5 +61,5 @@ Instead of connecting to the masses we can connect to one another, we can think 
 # Links
 => https://midnight.pub/e/282024650387489281 m15o's comments on why The Midnight Doesn't need JS\
 => https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/ How to Do Nothing by Jenny Odell
-=> frogmob.life/@nate @nate@frogmob.life is my Mastodon account. Come say hi!
+=> https://frogmob.life/@nate @nate@frogmob.life is my Mastodon account. Come say hi!
 => http://tilde.town/~brightblue/ Tilde Town is my ~ community of choice. Sorry about the lame homepage. 
