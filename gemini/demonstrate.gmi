@@ -5,14 +5,27 @@ This page is mostly here so I can take screen shots of it when/if I update my Ge
 ## Second Level
 ### Third Level
 ```
-Fenced Code Block
+Fenced Preformatted Block
 
 ```
-=> gemini://writerfriends.space My Space!
+=> gemini://writerfriends.space My Space Capsule on Gemini
 
 * Lists
 * Are
 * Fun
 
 > Quoted Text
+
+## Second Level Tests:
+
+Testing code block symbols in a mid-line: shouldn't trigger: ```. Should not look fenced.
+
+```fence with hints
+This should be fenced
+``` 
+ 
+Also can't start a quote mid-line: > This should look normal, not quoted. 
+Headings: # Not a heading
+Headings: ## Not a subheading
+Headings: ### Not a sub-sub-heading
 
