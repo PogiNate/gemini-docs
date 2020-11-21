@@ -1,0 +1,18 @@
+# 21 Nov, 2020 
+
+Saturday. Generally a nice day to tinker a bit, depending on family responsibilities and the like. I set up Letsencrypt certification for this domain, so that's nice. I've also been playing around with auto-starting the server software when the hardware reboots. So far so good. 
+
+Still working on my novel for NaNoWriMo, and getting past the terrible part that is the end of "act II", if you want to call it that. The place where the protagonists all get into position and get ready for the big final showdown. I should be working on that instead of tinkering with this, probably. But I'm not. Oh well. 
+
+I also set up a page on Solderpunk's Circumlunar.space site, just in case I stop hosting this, and to get more integrated into conversations. 
+
+Next thing I'll probably do is start tinkering with a molly file for that site, just because...you know, why not?
+
+I'm still using my Nova extension to manage all my Gemini activities, and I'm really enjoying Nova. It's got a lot of the "get out of your way" mangement of tmux, but with a GUI and an impressive number of easily integrated services. 
+
+Thus far six people besides myself have downloaded my gemini extension, so that's pretty cool, right? 
+
+## Links
+
+=> gemini://gemini.circumlunar.space/~nate Me on Circumlunar.
+=> https://nanowrimo.org NaNoWriMo 
