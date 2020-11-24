@@ -26,3 +26,6 @@ I'm really enjoying the back to basics nature of Gemini. Right now I'm using cro
 I have created syntax highlighting for Panic's Nova editor (see my home page for links) and now that's all, available on the Panic Extension Library and everything. I'm using the highlighting right now and it looks pretty good! I like Nova, for all of its limitations. The editor is clean and splits up nicely into little sub-windows for terminals and file browsers and editing windows, etc. 
 
 Now I'm thinking about writing a little script that makes it easy to edit daily logs, although honestly this isn't that hard. But tinkering is fun!
+
+
+=> index.gmi Back to Gemlog index.

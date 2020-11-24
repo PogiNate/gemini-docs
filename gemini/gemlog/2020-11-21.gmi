@@ -16,3 +16,5 @@ Thus far six people besides myself have downloaded my gemini extension, so that'
 
 => gemini://gemini.circumlunar.space/~nate Me on Circumlunar.
 => https://nanowrimo.org NaNoWriMo 
+
+=> index.gmi Back to Gemlog index.

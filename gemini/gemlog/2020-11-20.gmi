@@ -9,3 +9,6 @@ I miss the days of Mutt and pine. I still use Vim and Tmux frequently, so it's h
 => https://obsidian.md Obsidian is an amazing personal wiki and mind-enhancer
 => http://www.renlearn.co.uk/neo-2/ The Neo2 is out of production, but still amazing.
 => https://getfreewrite.com/products/freewrite-traveler The Traveler is expensive but focused.
+
+
+=> index.gmi Back to Gemlog index.
