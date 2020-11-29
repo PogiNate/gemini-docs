@@ -14,4 +14,10 @@ I had a lot more fun with NaNoWriMo this year than usual; I have a very active w
 
 According to write.as, roughly 100 people have read most of the chapters I posted, which is an odd thing. 
 
+## Hey I'm on GUS!
+
+I don't remember if I submitted my URL or not, but I just checked, and I'm listed on the Gemini Universal Search! That's fun.
+
+## Links
+=> gemini://gus.guru GUS - Gemini Universal Search
 => index.gmi Back to Gemlog index
