@@ -1,0 +1,28 @@
+# The Semantics of Gemini
+
+I've been thinking about how the medium in which you write influences what you write. This thought came about because I was thinking about the difference between writing for the web and writing for Gemini. While they're quite similar, the differences stand out, and are worth exploring. 
+
+## Headings Matter
+
+When the web was simpler and more text-based, headings were more of a thing on that platform. But now that every website is an app, headings are a graphical choice instead of a semantic choice. HTML5 has attempted to move things back into the semantic space with the `<header>` tag, but overall Web pages are more about presentation than semantics. Gemini's structure brings headings back to their original meaning and purpose: to identify the points and topics under discussion. 
+
+## Links
+
+The other day I was working on a Markdown-to-Gemini converter. Technologically this isn't difficult: strip out bold and italics, and convert links from markdown style to Gemini style. A few simple regular expressions and you're there. My goal was to turn some of my posts on Write.as into posts on here. After all, everything I write on my Write.as blogs is written in markdown, so it should be a perfect fit. Right?
+
+Except Gemini links are semantically different. Instead of being an underlined word in the middle of the flow of a thought, they are more akin to footnotes, a list of references at the end of a thought. It changes your entire relationship with the link. When I write for the web links are there to strengthen an idea or explain a concept for people who may not be familiar with it. If you need the link you can click on it, or if you already know what something means you can just keep going. In Gemini they are separate and distinct. Again, this changes how you think about links, and changes the semantics of the document. Writing for the web doesn't easily convert to Gemini, not for technical reasons, but for writing style.
+
+So the "conversion" starts much earlier. As I'm writing this post in Obsidian I'm creating Gemini links instead of markdown links and considering what links are actually worthy of getting their own line and presentation. 
+
+## So What?
+
+The conversation is different in Gemini, the methods and style of conversation change when you're in a format like this. The expectation is towards long-form and involved writing, and a singularity of focus. Many websites, especially the ones I work on for a living, are designed to accomplish a goal: complete a transaction, collect information, input information into a centralized system, etc. And it's awesome that we can do all of that! 
+
+But here, this system, this is for reading. Here we want to connect with longer thoughts, with slower ideas that require more consideration. And that changes how we write. 
+
+## Links
+
+=> https://obsidian.md Obsidian is a Markdown-based personal wiki 
+=> https://thoughts.natedickson.com my main Write.as blog 
+
+=> ../index.gmi Back to the main page. 
