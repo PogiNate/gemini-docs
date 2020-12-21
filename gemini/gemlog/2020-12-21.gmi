@@ -1,0 +1,14 @@
+# 21 Dec, 2020 
+
+## Learning By Playing
+
+I've been playing around with setting up a multiplayer Terraria server lately, just for fun. And it's great how many things you learn (or re-learn) when you're playing around with things like this. Linux server administration hasn't ever been part of my job, so I haven't gotten as good with it as I would have liked. But when I'm trying to make a server available to my friends without spending money on a hosted environment I start to learn about firewalls and systemctl setups and all the other little useful tricks of the trade that I should have picked up by now anyway. It's an amusing way to do things, and it reminds me of an XKCD comic (but what doesn't?)
+
+=> https://xkcd.com/519/ XKCD messing with Perl
+
+Interestingly, my introduction to "real" programming was also messing with perl. I had played around with Visual C++ in high school and gotten roughly nowhere, and had done some HTML/CSS stuff. But Perl was the first language where I really "got" the whole "programming" thing. I wrote a "Mad Libs" style program that I could host using cgi-bin and it actually worked. It was a revelation.
+
+
+## Christmas in the time of COVID
+
+My wife and I are working on making Christmas memorable in a year that nobody will ever forget. We're very focused on our little family here at the house, spending time together and doign things that the family loves. Oddly enough, that includes knitting hats this year. 
