@@ -1,0 +1,48 @@
+# Markdown and Gemini
+I think in Markdown. I've been using it for so long, for so many things, that it's hard for me to not put things in underlines or asterisks for bold and whatnot. But even harder to avoid is the use of links. I use Markdown links in my writing, from books to articles.
+
+And while I love the idea of Gemini it's been hard for me to go through and convert things I've written in Markdown to Gemtext format. I've found a system that works for me; I generally include a `## Links` section at the end of the article, with everything I need people to be able to see when they're done with my little post. Which isn't how I write when I'm writing, well, anything else. 
+
+So what I need is a tool to pull my links out, while leaving the relevant text, and put all the links in down at the bottom of the article. 
+
+Fortunately I found a spiffy little tool called TextBuddy. In the developers words:
+
+> TextBuddy is not…
+> …for writing code.
+> 
+> …for editing Markdown.
+> 
+> …for managing a library of plain-text notes.
+
+It's a little place to put text, then do things to it on the way to somewhere else. For me, that makes it a very good place to take notes written in Obsidian (like this one) and turn them into things that can be in not-Obsdian. Obsidian uses a few things that don't play on the web, things like `#tags` and `[[Personal Knowledge Base|Wiki Links]]` that should disappear before publishing. 
+
+And that's where TextBuddy comes in. It lets you add little custom scripts that do whatever you need done. Since you're dealing with text most of what you'll need done is regex-able. 
+
+So I go out to Regex101 and create my new patterns to do straight replacement, or in the case of links to create a new section of the page, and _then_ go through and replace links. These scripts are a few lines of JavaScript:
+
+```
+function pre(text){
+  const markdown_link = /\[(.*?)\]\((.*?)\)/gm;
+  
+  const matches = text.matchAll(markdown_link);
+  
+  var out = text+='\n## Links';
+  for (const match of matches){
+    out += `\n=> ${match[2]} ${match[1]}`
+  }
+  
+  out = out.replace(markdown_link,`$1`);
+  return out;
+}
+
+```
+
+And run very quickly.
+
+So now I can (hopefully) share more on Gemini because I've removed one barrier to getting my thoughts out.
+
+## Links
+=> https://textbuddy.app/ TextBuddy
+=> https://obsidian.md Obsidian
+=> https://textbuddy.app/writing-custom-scripts/ custom scripts
+=> https://regex101.com Regex101
