@@ -5,7 +5,7 @@ And while I love the idea of Gemini it's been hard for me to go through and conv
 
 So what I need is a tool to pull my links out, while leaving the relevant text, and put all the links in down at the bottom of the article. 
 
-Fortunately I found a spiffy little tool called TextBuddy. In the developers words:
+Fortunately I found a spiffy little tool called TextBuddy. In the developer's words:
 
 > TextBuddy is not…
 > …for writing code.
@@ -46,3 +46,5 @@ So now I can (hopefully) share more on Gemini because I've removed one barrier t
 => https://obsidian.md Obsidian
 => https://textbuddy.app/writing-custom-scripts/ custom scripts
 => https://regex101.com Regex101
+=> https://write.as/natedickson/markdown-and-gemini Cross-posted using Markdown on Write.as
+=> index.gmi Back to Gemlog index
