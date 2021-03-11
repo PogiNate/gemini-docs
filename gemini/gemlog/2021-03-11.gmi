@@ -1,6 +1,6 @@
 # 3D Printing is Interesting  
 
-Yes, this is going to be another annoying post about someone who has discovered that [3D printing] is interesting. But hey, it is!
+Yes, this is going to be another annoying post about someone who has discovered that 3D printing is interesting. But hey, it is!
 
 The thing is, this version of 3D Printing is almost certainly not the future. What we do right now is cool and all, but it's limited in scope. Adding layer upon layer of PLA to build a model is neat! But it's a stepping stone toward whatever comes next. Still, it's interesting for me to be in on this early part of the path. 
 
