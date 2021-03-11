@@ -1,7 +1,3 @@
----
-tags: [posts]
----
-
 # 3D Printing is Interesting  
 
 Yes, this is going to be another annoying post about someone who has discovered that [3D printing] is interesting. But hey, it is!
