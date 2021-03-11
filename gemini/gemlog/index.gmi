@@ -3,6 +3,7 @@
 Daily-ish updates. 
 
 ## Entries
+=> 2021-03-11.gmi 11 Mar 2021: 3D Printing in the Wild West
 => 2021-03-08.gmi 08 Mar 2021: Markdown and Gemini.
 => 2021-02-18.gmi 18 Feb 2021: Mo' Roleplay, Mo' Fun.
 => 2021-02-03.gmi 03 Feb 2021: D&D with Friends!

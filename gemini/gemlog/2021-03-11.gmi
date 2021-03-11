@@ -1,0 +1,31 @@
+---
+tags: [posts]
+---
+
+# 3D Printing is Interesting  
+
+Yes, this is going to be another annoying post about someone who has discovered that [3D printing] is interesting. But hey, it is!
+
+The thing is, this version of 3D Printing is almost certainly not the future. What we do right now is cool and all, but it's limited in scope. Adding layer upon layer of PLA to build a model is neat! But it's a stepping stone toward whatever comes next. Still, it's interesting for me to be in on this early part of the path. 
+
+I grew up in the 1980's and 1990's, and was just behind the curve on a lot of things that have been a major part of my life. I wasn't old enough/rebellious enough to be a phone phreaker, I wasn't ever on usenet, instead I was on Prodigy and CompuServe because my father had accounts on those services. So I always came in just a little after the wild west days of the technologies I find interesting.
+
+When I started into programming for real I picked up a copy of Fire in the Valley, an excellent documentary on the birth of personal computers. The Altair 8800 is a little older than I am, the first computers I used were all-in-ones like the Tandy TRS-80, where I did a little basic programming as a kid (make that `BASIC` programming, in Color BASIC ) but then I kind of left programming alone until around 2002. 
+
+# Back to 3D Printing
+Anyway back to 3D Printing. This is clearly a new technology. It has all the earmarks: you have to do everything by hand. You can buy pre-built 3D Printers, but the technology is young enough that you will have to re-build them yourself if anything goes wrong, and things will go wrong. Getting something from "idea" to "production" is a multi-step process, and there are vehement arguments about which steps along that chain are the "best" steps. It's frustrating, the results may vary (and do vary) wildly, and...
+
+And I love that. This is what I missed on my first go-round. 
+
+I own a QIDI Tech X-Smart, a printer that has the distinction of being on almost nobody's radar, which is a shame because it's surprisingly excellent at being a good printer for idiots like me. Even with it being a cool little beginner printer, I've still had to completely disassemble the print head, clean things out, figure things out, play with settings, physically adjust sensors, replace parts...the works. Kudos to QIDI, they have fantastic service who will email you back almost instantly (if you're up in the middle of the night because they're based in China) and will help you get up and running again, even years after you bought the printer. 
+
+# Links
+
+=> https://en.wikipedia.org/wiki/Polylacticacid PLA
+=> https://en.wikipedia.org/wiki/Phreaking phone phreaker
+=> https://pragprog.com/titles/fsfire/fire-in-the-valley/ Fire in the Valley
+=> https://en.wikipedia.org/wiki/Altair8800 Altair 8800
+=> https://en.wikipedia.org/wiki/TRS-80ColorComputer Tandy TRS-80
+=> https://en.wikipedia.org/wiki/ColorBASIC Color BASIC
+=> http://www.qd3dprinter.com/products/x-smart/ X-Smart
+=> index.gmi Back to Gemlog index
