@@ -1,24 +1,3 @@
-# 22 Mar, 2021 
-
-Thinking about customer service, text-based games, and D&D. 
-
-# Broken Everything, Most of it Fixed
-I've had several things break lately, but that's just par for the course these days, right? Between planned obsolescence and just...entropy, things break down.
-
-And for most of my life I've just kind of dealt with that. It's my fault, [caveat emptor](https://www.merriam-webster.com/dictionary/caveat%20emptor) and whatnot. But lately a few high ticket, or at least, higher ticket than I'm comfortable with, items have broken. So I did the impossible and actually contacted customer support!
-
-And in almost every case, it's been great. Most customer support teams are quite, well, supportive. I've started to lose my fear of reaching out to people. Not totally, of course.
-
-## Doing it the old way
-One of the things that's currently broken is my IDE that I use for creating pages for this. 
-
-Not a problem; my workflow is text files and git. So I am editing this text file in Vim and using git commands from the editor to put it up on the server. Bells and whistles are all very nice, but there's no beating text tools.
-
-# Dragon Realms
-Gemini folks might appreciate this: my friend recently got me interested in a MUD called [DragonRealms](https://www.play.net/dr/). It's very old, like, over twenty years old. But it's quite interesting, and all that time has given it a lot of room to grow and breathe. The world is now quite mature and interesting, and there are a lot of tools around it that make it fun to play around with. The scripting tools in the client I'm using ([Frostbite](https://matoom.github.io/frostbite/)) are robust and Ruby-based, which is a language I enjoy. It's interesting to me to see things that have been "passed by" by modern technology that still have their adherents, that still draw a crowd. I've always loved text-based games, and I've started playing around in [Inform7](http://inform7.com/) again. Even if I never "publish" anything, I absolutely adore the elegance of the language.
-
-# D&D 
-In one of my campaigns I'm working with one of the players to take turns running adventures. So I'm rolling a character so can actually _play_ D&D instead of just being the DM all the time. I have three campaigns going on, and I'm only taking DM time off in one of them, but still, it's nice to have the potential of a break coming up. I still really appreciate how streamlined and interesting the 5th Edition rules are.
 # Broken Everything, Most of it Fixed
 I've had several things break lately, but that's just par for the course these days, right? Between planned obsolescence and just...entropy, things break down.
 
