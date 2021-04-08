@@ -26,7 +26,7 @@ I currently have 4 or 5 Raspberrys Pi running in my house doing various things. 
 * 1Ghz CPU
 * 512MB RAM
 * 8/16/32 GB SD card (depending on what I have laying around when I start the project)
-* built-in audio that is good enough for what I do with these machines, or a HAT that does excellent_ audio
+* built-in audio that is good enough for what I do with these machines, or a HAT that does excellent audio
 * Wi-fi
 * Video card? Kinda? but HDMI out that pushes far more pixels than my 640x480 monitor in high school.
 
