@@ -1,0 +1,44 @@
+# The Law of Tech 
+
+I've heard it said that there's a rule, called the "Law of Engineering" or similar. It states that if a thing is possible, the price of that thing will eventually drop to effectively free. This article is my experience with that law.
+
+## Then
+
+In high school my best friend and I worked together to build a pair of computers, one for him, one for me. These were genuine hacker boxes, big ugly beige towers, wonky hex screws, the works. The price per machine was around $1400 in 199X dollars. We had both saved from our jobs for a WHILE to build them. 
+
+Of course I don't remember the exact specs, but they were something like:
+* 486 DX2/66 CPU (aka 66Mhz processor speed)
+* Some RAM (probably 16MB)
+* 500 MB Hard Drive
+* 3.5" floppy drive
+* 5.25" floppy drive (backwards compatibility!)
+* 4X CD-ROM (not DVD, and not RW)
+* SoundBlaster Audio card
+* 56K modem
+* Video Card? What's that???
+
+We both already had VGA monitors. 
+And we were pretty happy with the machines we built! 
+
+## Now
+
+I currently have 4 or 5 Raspberrys Pi running in my house doing various things. A Raspberry Pi Zero W costs about $10, and is a better computer in every way than the machine I built in high school (other than the disk drives). 
+* 1Ghz CPU
+* 512MB RAM
+* 8/16/32 GB SD card (depending on what I have laying around when I start the project)
+ built-in audio that is good enough for what I do with these machines, or a HAT that does excellent_ audio
+* Wi-fi
+* Video card? Kinda? but HDMI out that pushes far more pixels than my 640x480 monitor in high school.
+
+I realize this is mostly just me sounding old, sometimes it feels wasteful to use ALL THAT POWER to run a small 12 key keyboard, or an ad blocker, or a Gemini capsule that gets a few visitors a day. Shouldn't I be using all those wasted cycles? Shouldn't I use less powerful hardware to free up those cycles for some other purpose? 
+
+But honestly, an Arduino style board is usually MORE than $5, and is less flexible. It's often the right tool for the job, but a Raspberry Pi Zero is just so useful. I'm good at Linux admin, I can handle setting up a headless machine over ssh and keeping it safe and secure while it does whatever task I give it.
+
+> NOTE: I'm cross-posting this here and on the Midnight. I'll probably stop doing that at some point. Not sure.
+
+## Links
+
+=> https://www.raspberrypi.org/products/raspberry-pi-zero-w/ Raspberry Pi Zero
+=> https://shop.pimoroni.com/products/keybow?variant=21246333419603 The Keybow!
+=> https://pi-hole.net/ The Pi-hole is a lovely way to keep bad stuff™ off your network
+=> https://github.com/michael-lazar/jetforce My Gemini server of choice
