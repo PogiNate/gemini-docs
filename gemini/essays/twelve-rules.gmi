@@ -1,0 +1,21 @@
+# 12 Rules For Digital Living
+
+A while ago I wrote my list of 12 Rules for Living. 
+
+Recently I realized that I have another set relating to digital life. The rules of interaction online are changing all the time, so I thought I'd add this as well. These are things that have worked for me over the years, and more or less how I live right now. 
+
+* If it’s not on your computer you don’t own it. No cloud service is forever. No cloud service is fully secure. 
+* Corollary: Shepherd your data. Know where it is and why. Clean up when required. Anticipate losses and understand how to mitigate them.
+* If you wouldn’t put it in front of your mom don’t put it online. Things you share have a way of moving around.
+* Learn enough about encryption to use it when you need it. 
+* Use a password manager. Research that password manager and change when you find something better. Use 2FA when available.
+* Personally determine which software you use. Only use out of the box defaults if they are actually serving your purposes. Get good with the software you choose. 
+* Change default apps when something better comes along, but not more than once every six months. 
+* If a service is free, you aren’t the customer, you are the product. Showing you ads isn’t their entire business model. Find out what parts of you they are selling. 
+* Search for yourself on Google, Facebook, LinkedIn, etc. Find out who shares your name and see what potential employers might find if they look you up. Be aware of, and take charge of your online footprint. 
+* Make sure you are using technology to improve your real life. If you find yourself thinking that off-line activities are interfering with digital activities it’s time to reconsider your priorities. 
+* Get good at non-digital “idea capturing” techniques. Think post-it notes or pocket notebooks. You will capture things that would have gotten blocked by notifications otherwise. Once you've captured an idea get good at moving it into digital as and when it becomes necessary. This note started on paper. 
+* Know what metadata actually is and how to clean it up before you share online. When someone says they "only share metadata" understand what that means.
+
+## Links
+=> https://thoughts.natedickson.com/12-rules-for-living 12 Rules for Living

@@ -4,7 +4,7 @@ The domain name is one I had laying around after not using it for anything inter
 
 ## Latest on the site
 
-=> essays/semantics.gmi Thinking about the semantics of writing on Gemini vs. the web.
+=> essays/twelve-rules.gmi My rules for living online.
 
 ## About Me
 
