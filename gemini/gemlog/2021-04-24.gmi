@@ -1,0 +1,16 @@
+# 24 Apr, 2021 
+
+Today I have:
+
+* Come home from camping
+* Fixed my iMac that got shut down mid-update on Friday
+* Upgraded my Xubuntu install on my Raspberry Pi 400 to 21.04
+* Made a cool water meter using said Raspberry Pi and an arduino. Mostly just to show my kids how you do that.
+* Finished a "Renner" clock with 3D Printed stand.
+
+I'd call that just about good enough for the day.
+
+## Links
+=> index.gmi Back to Gemlog index
+=> https://thoughts.natedickson.com/the-renner-clock The Renner Clock, in progress. 
+=> https://www.raspberrypi.org/products/raspberry-pi-400/ The Raspberry Pi 400
