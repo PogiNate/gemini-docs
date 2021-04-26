@@ -3,7 +3,8 @@
 Daily-ish updates. 
 
 ## Entries
-=> 2021.04-24.gmi 24 Apr 2021: Busy Day
+=> 2021-04-26.gmi 26 Apr 2021: Plans
+=> 2021-04-24.gmi 24 Apr 2021: Busy Day
 => 2021-04-08.gmi 08 Apr 2021: the value of Tech
 => 2021-03-22.gmi 22 Mar 2021: Text and Talking to People.
 => 2021-03-11.gmi 11 Mar 2021: 3D Printing in the Wild West
