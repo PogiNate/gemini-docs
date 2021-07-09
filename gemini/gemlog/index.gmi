@@ -3,6 +3,7 @@
 Daily-ish updates. 
 
 ## Entries
+=> 2021-07-09.gmi 07 Jul 2021: I'm back!
 => 2021-04-26.gmi 26 Apr 2021: Plans
 => 2021-04-24.gmi 24 Apr 2021: Busy Day
 => 2021-04-08.gmi 08 Apr 2021: the value of Tech
