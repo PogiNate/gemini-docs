@@ -4,7 +4,7 @@ The domain name is one I had laying around after not using it for anything inter
 
 ## Latest on the site
 
-=> essays/web_primativism.gmi Why is the web going primative again?
+=> essays/web_primitivism.gmi Why is the web going primative again?
 
 ## About Me
 
