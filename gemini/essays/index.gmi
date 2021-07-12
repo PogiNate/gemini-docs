@@ -4,3 +4,4 @@ Things that aren't tied to a specific date, and exist more as a complete thought
 
 => semantics.gmi A slightly-less rambling essay considering the semantics of gemini.
 => alternet.gmi A rambling essay telling gemini about itself.
+=> web_primitivism.gmi Why is the web going Primative again?

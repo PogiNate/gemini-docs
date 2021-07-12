@@ -1,0 +1,33 @@
+# Web Primitivism
+
+> …a mode of aesthetic idealization that either emulates or aspires to recreate "primitive" experience. 
+> Wikipedia's definition of "primativism"
+
+Many years ago, near the beginning of the web, I was working at a bookstore. A customer came in and said "I'm going to make a website that looks fine on any browser, and I mean, someone using a Hercules monitor on a 286. None of these VGA colors or web things." Bear in mind this was in the late 90's, the state of graphics technology at this point was the 1024x768, 256-color, VGA monitor. "XGA" was in the works, but not widely adopted yet. But this man wanted to make a website that looked good in black and white on a 300x600 screen. More power to him.
+
+And it's interesting that we're returning to that aesthetic. Not everyone, obviously, but there does seem to be a drive to go back to a simpler web. Write.as, the platform that powers this blog, offers a JavaScript and Web-font-free version of these blogs, you can read this blog in it's web primitive form here. 
+
+Or you can read this post on my gemini capsule, which is just about as stripped down as you can get. 
+
+The question, of course, is why? Why are all of us who work in web development yearning for a "simpler time" on the web? Let's be honest, CSS3 is amazing. Our modern JavaScript capabilities make the web into an operating system in its own right. So why are we trying to go back?
+
+Maybe, in some cases, it's because our technology stacks seem to be stacked against us. To create a site in Laravel means learning PHP, then the Laravel iterations on PHP, then the Blade templating language, then some JS and some Vue or React, then how to package things using Webpack, how to keep packages up to date using Composer and npm and yarn…
+
+And what you get at the end is a website that is "maintainable", given that your job is to maintain it. If you work on this website for 40 hours a week, it will be exactly what you want to work on in that situation. But what about your hobby blog? Perhaps Laravel is a bit heavy for that purpose. Perhaps all you need is a way to get your words across. And you don't want to rely on a corporate sponsor to do so, which means no Blogger, no Facebook, no Twitter. 
+
+Perhaps we want our own sites, hosted where we can keep an eye on them, working how we understand them to work. 
+
+I'm not against web primitavism, I'm fascinated by it, drawn to it, as evidenced by the fact that I have a gemini capsule. But we can't ignore the fact that, without some user styling, these web primitive experiences are ugly. Look at midnight.pub, without your own styles put on it, and tell me it's not ugly. Look at any gemini capsule through a web renderer, and tell me you like how it looks. Oddly enough they look much better when viewed through a text-only terminal, but that's only because most of us have customized our terminals to look acceptable to us. CSS3 is a revelation, web fonts are beautiful and finally give us typography on the web, unfortunately at the cost of letting google see what we're reading, unless your friendly neighborhood web designer has chosen self-hosted fonts. 
+
+I don't have a solid conclusion here; I love both sides of the modern web. I love choice, I love simplicity, I love good design, I love style. I spend a lot of time on the styling of my various Write.as blogs. I write custom JavaScript for them as well. But I also love the simplicity of text on a blank background, and the drive to be entirely in control of the content and the delivery. 
+
+Perhaps I'm just glad that the exploration of a primitive web is happening, and I want to be part of the conversation. 
+
+## Links
+
+=> https://en.wikipedia.org/wiki/Primitivism Wikipedia Definition of Primativism
+=> https://tiny.write.as/natedickson/web-primitivism This post on tiny.write.as
+=> https://midnight.pub The Midnight! I love The Midnight
+=> https://portal.mozz.us/gemini/writerfriends.space This capsule, via the web
+=> https://portal.mozz.us Mozz's web renderer
+=> https://github.com/makeworld-the-better-one/amfora/releases Amfora, a terminal Gemini reader
