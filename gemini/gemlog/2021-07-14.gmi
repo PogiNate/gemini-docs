@@ -26,3 +26,4 @@ Again, no real "thesis", other than "hey semantic tags are good!" and a gentle r
 => https://netnewswire.com NetNewsWire
 => https://www.instapaper.com Instapaper
 => https://getpocket.com Pocket
+=> gemini://index.gmi Return to Index
