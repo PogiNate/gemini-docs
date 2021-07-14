@@ -3,6 +3,7 @@
 Daily-ish updates. 
 
 ## Entries
+=> 2021-07-14.gmi 14 Jul 2021: The Semantic Web.
 => 2021-07-09.gmi 07 Jul 2021: I'm back!
 => 2021-04-26.gmi 26 Apr 2021: Plans
 => 2021-04-24.gmi 24 Apr 2021: Busy Day

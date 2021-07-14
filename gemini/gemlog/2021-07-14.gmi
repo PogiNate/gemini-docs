@@ -1,0 +1,28 @@
+# What About The Semantic Web?
+
+Thinking more about "Web Prmiativism", and based on a few comments I got from others via Mastodon: 
+
+> … Cheers, I read your post through NetNewsWire. Liking RSS more and more. No style, all substance.
+> @wouter@chat.brainbaking.com
+
+
+I remembered there was a big push a while ago towards neutral ground, but it kinda got lost in the midst of the rise of web apps.
+
+Remember when HTML5 was new the big push was towards a "Semantic" Web? Where a page would describe itself in terms of what each piece of content was for? Instead of putting everything in `<div>` tags, we would put the header in a `<header>` tag, the bottom of the page in a `<footer>` tag, and we have all these wonderful new tags that let the client know what they're looking at. HTML5 defines a decent selection of "semantic elements", and when we use those we invite people to use our content in ways other than viewing our web pages directly. 
+
+Which gives us an easier on-ramp to our content being properly rendered by RSS readers (like Wouter's NetNewsWire), or by "reader" apps, like Instapaper or Pocket or even just a browser's built in "reader" mode. 
+
+Happily, Write.as already supports semantic markup: this article is wrapped in `<article>` tags, for example. But I can do a little more. 
+
+A while ago I added some custom CSS to make pullquotes in my articles. Instead of just using `<div class="pullquote">`, I can turn them into `<aside class="pullquote">` tags, define why they are a repeated piece of text. And as far as CSS is concerned it's the same thing. But if you're ignoring my CSS (and you should be free to do so) it adds just a little more information. 
+
+Again, no real "thesis", other than "hey semantic tags are good!" and a gentle reminder to use the correct `<input>` tags on forms so that mobile browsers will give me a number pad when you're asking for numeric input. But for me it's a joyful reminder of the fact that the W3C is also thinking about the web in terms of the information it conveys, not just the way it can be turned into apps.
+
+## Links
+=> https://frogmob.life/@nate my Mastodon Account. Come Say Hi!
+=> gemini://writerfriends.space/essays/web_primitivism.gmi Web Prmiativism Article
+=> https://chat.brainbaking.com/notice/A9Dkx3j4yHz9xeVocS @wouter@chat.brainbaking.com
+=> https://www.w3schools.com/html/html5semanticelements.asp semantic web elements
+=> https://netnewswire.com NetNewsWire
+=> https://www.instapaper.com Instapaper
+=> https://getpocket.com Pocket
