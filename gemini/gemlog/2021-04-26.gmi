@@ -9,5 +9,5 @@ And I think about Eisenhower's quote above. Why do we plan for things? Because t
 And then things change, sure. But when things change we know where we were before the change. We can use the information we gained to better understand our new reality. 
 
 ## Links
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index
 => https://www.brainyquote.com/quotes/dwightdeisenhower_164720 Quote from General Dwight D. Eisenhower

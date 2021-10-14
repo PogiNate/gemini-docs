@@ -20,4 +20,4 @@ During the holiday break I took the opportunity to run some D&D sessions for my 
 
 The funniest thing to happen in the campaign was when I asked my five year old daughter for her action in a combat round. She said "hmmmm. I forgive the bandit." As a father I was touched, of course. She DOES listen to us! As a DM I decided that was good for 1d4, which was enough to put the bandit out of commission. He walked out of the tavern and she got her XP. 
 
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index

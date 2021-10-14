@@ -18,4 +18,4 @@ I have done very little fiction writing thus far. I'm trying to get back into it
 > To achieve great things, two things are needed; a plan, and not quite enough time
 > -- Leonard Bernstein
 
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index

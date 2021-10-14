@@ -47,4 +47,4 @@ So now I can (hopefully) share more on Gemini because I've removed one barrier t
 => https://textbuddy.app/writing-custom-scripts/ custom scripts
 => https://regex101.com Regex101
 => https://write.as/natedickson/markdown-and-gemini Cross-posted using Markdown on Write.as
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index

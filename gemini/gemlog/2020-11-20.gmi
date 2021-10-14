@@ -11,4 +11,4 @@ I miss the days of Mutt and pine. I still use Vim and Tmux frequently, so it's h
 => https://getfreewrite.com/products/freewrite-traveler The Traveler is expensive but focused.
 
 
-=> index.gmi Back to Gemlog index.
+=> ./index.gmi Back to Gemlog index.

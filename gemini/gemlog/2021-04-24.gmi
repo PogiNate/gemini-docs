@@ -11,6 +11,6 @@ Today I have:
 I'd call that just about good enough for the day.
 
 ## Links
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index
 => https://thoughts.natedickson.com/the-renner-clock The Renner Clock, in progress. 
 => https://www.raspberrypi.org/products/raspberry-pi-400/ The Raspberry Pi 400

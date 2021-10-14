@@ -20,4 +20,4 @@ I don't remember if I submitted my URL or not, but I just checked, and I'm liste
 
 ## Links
 => gemini://gus.guru GUS - Gemini Universal Search
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index

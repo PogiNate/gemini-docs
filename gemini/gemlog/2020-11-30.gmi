@@ -4,4 +4,4 @@ I'm officially done with NaNoWriMo for the year. It's kinda nice to say that! I'
 
 Not much else ot say. That was a lot of words. I'm tired. 
 
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index

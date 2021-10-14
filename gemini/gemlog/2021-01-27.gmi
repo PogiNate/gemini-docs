@@ -30,4 +30,4 @@ I don't think so, actually. Being free of Twitter and BBC News and Fox news and 
 
 And now I have more time to respond to news events that matter, like what my children are doing. 
 
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index

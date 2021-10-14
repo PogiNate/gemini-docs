@@ -22,4 +22,4 @@ Chess is such a different proposition from regular video games. In chess you're 
 
 => https://chess.com Chess.com
 
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index

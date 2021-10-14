@@ -1,7 +1,7 @@
 {
   "clips" : [
     {
-      "content" : "=> gemini:\/\/index.gmi Return to Index",
+      "content" : "=> gemini:\/\/.\/index.gmi Return to Index",
       "name" : "Return to index",
       "scope" : "editor",
       "syntax" : "mylang",

@@ -20,7 +20,7 @@ All of that was to say that while the Hot Dad comedy stuff is great, and it real
 => https://open.spotify.com/album/7g1sDNM38oSf0IUB6Irb0k?si=PUaQemtKSauJc589OwK43A Light Sleeper on Spotify
 => https://tidal.com/browse/album/72804755 Light Sleeper on Tidal
 
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index
 
 
 

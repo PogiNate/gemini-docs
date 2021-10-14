@@ -28,4 +28,4 @@ I have created syntax highlighting for Panic's Nova editor (see my home page for
 Now I'm thinking about writing a little script that makes it easy to edit daily logs, although honestly this isn't that hard. But tinkering is fun!
 
 
-=> index.gmi Back to Gemlog index.
+=> ./index.gmi Back to Gemlog index.

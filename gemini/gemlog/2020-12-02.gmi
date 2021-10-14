@@ -16,4 +16,4 @@ If you want to read my lil' novel from this year you can check it out. I put it 
 ## Links
 
 => https://exchange-magic.writeas.com/download-ebooks  Exchange Magic Ebook Downloads
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index

@@ -16,4 +16,4 @@ I love NaNoWriMo. It's a silly, insane, happy time to just write a silly first d
 
 My best friend is rebuilding his PC and it's getting me thinking that it might be time to build a new PC myself. My current home-built machine is 8 years old, and still does quite well for most things, but is starting to get a bit rattly and out of date. It's always fun to look at new parts and pieces that are out there, to see what new machines people have made, and what advancements have been made in making cases easier to deal with. My friend's build has no drive cables, as he's using an M2 SSD for his system drive and no optical drive. That sounds far too pleasant. 
 
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index
