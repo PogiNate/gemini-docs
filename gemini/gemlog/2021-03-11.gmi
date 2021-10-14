@@ -24,4 +24,4 @@ I own a QIDI Tech X-Smart, a printer that has the distinction of being on almost
 => https://en.wikipedia.org/wiki/TRS-80ColorComputer Tandy TRS-80
 => https://en.wikipedia.org/wiki/ColorBASIC Color BASIC
 => http://www.qd3dprinter.com/products/x-smart/ X-Smart
-=> index.gmi Back to Gemlog index
+=> ./index.gmi Back to Gemlog index
