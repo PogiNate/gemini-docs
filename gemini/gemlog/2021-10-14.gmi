@@ -2,6 +2,6 @@
 
 It's interesting which parts of my workflow are portable and which parts aren't. Setting up on a new computer means I need to re-set up things like my toolchain for getting articles onto this server, which isn't hard, but took a little work to get my editor and whatnot set up on this new machine.
 
-Other than that, not a lot of daily news. I had an expired certificate on here because my gemini server hadn't restarted since the certificate expired. Which says good things about the certificate and suggests that I need to restart it on a periodic basis, apparently.
+Other than that, not a lot of daily news. I had an expired certificate on here because my gemini server hadn't restarted since the certificate expired. Which says good things about the gemini server software and suggests that I need to restart it on a periodic basis, apparently. But it's also good that my certbot auto-renew feature was working correctly. So everything works, it just doesn't work together.
 
 => gemini://index.gmi Return to Index
