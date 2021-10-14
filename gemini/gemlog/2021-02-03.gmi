@@ -5,3 +5,5 @@ Hmmm, what's going on today?
 ## D&D With Friends! 
 
 I'm starting a friends campaign in D&D. I've been runnning a family campaign with my kids for a while now, which is an exercise in creative lateral thinking, mostly beccause I'm trying to run a game that is fun for a five year old and a fifteen year old at the same time. 
+
+=> ./index.gmi Return to Index
